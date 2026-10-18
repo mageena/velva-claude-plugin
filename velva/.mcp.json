@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "velva": {
+      "type": "http",
+      "url": "https://velva.ai/mcp"
+    }
+  }
+}

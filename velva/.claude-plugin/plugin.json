@@ -1,0 +1,15 @@
+{
+  "name": "velva",
+  "displayName": "Velva",
+  "version": "1.0.0",
+  "description": "Work with Velva projects, creative media and production workflows from Claude, with explicit credit limits.",
+  "author": { "name": "Velva Design Labs FZE LLC", "email": "support@velva.ai", "url": "https://velva.ai" },
+  "homepage": "https://velva.ai/docs/connector",
+  "license": "MIT",
+  "keywords": ["film", "creative-production", "images", "video", "3d", "velva"],
+  "icon": "./icon.png",
+  "documentationUrl": "https://velva.ai/docs/connector",
+  "supportUrl": "https://velva.ai/support",
+  "privacyPolicyUrl": "https://velva.ai/privacy",
+  "termsOfServiceUrl": "https://velva.ai/terms"
+}

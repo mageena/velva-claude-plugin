@@ -1,0 +1,15 @@
+{
+  "name": "velva",
+  "description": "Velva creative-production tools for Claude, with live quotes and explicit credit limits.",
+  "owner": {
+    "name": "Velva Design Labs FZE LLC",
+    "email": "support@velva.ai"
+  },
+  "plugins": [
+    {
+      "name": "velva",
+      "source": "./velva",
+      "description": "Work with Velva projects, creative media and production workflows from Claude, with explicit credit limits."
+    }
+  ]
+}
