@@ -40,7 +40,7 @@ When Claude calls a Velva tool, it sends that request's arguments and referenced
 
 Velva may pass the inputs needed for an authorized task to its generation, storage, stock-search or connected-service providers. Sending, posting, scheduling and other external changes require the user's explicit instruction and a declared tool for that operation. Generated and uploaded files, projects, connection records and billing records are retained by the hosted service as explained in the [privacy policy](https://velva.ai/privacy). The plugin does not set a separate retention period.
 
-This plugin is intended for professional creative work by adults. Use of Velva and any generated or third-party media remains subject to the [service terms](https://velva.ai/terms).
+This plugin is for creative work by professionals, students and teenage creators, subject to Claude’s and Velva’s applicable account and service eligibility rules. Use of Velva and any generated or third-party media remains subject to the [service terms](https://velva.ai/terms).
 
 ## Help and account access
 

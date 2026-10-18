@@ -22,6 +22,6 @@ claude plugin validate ./velva --strict
 claude plugin validate . --strict
 ```
 
-The local validator checks package structure and schemas. Directory submission additionally requires validation in Anthropic's developer portal and a separate submission for the Velva MCP connector. Installing this source marketplace does not establish directory approval.
+The local validator checks package structure and schemas. Directory submission additionally requires validation and review in Anthropic's developer portal. The current plugin form marks separate MCP connector registration optional for additional install features; a listing preview is not approval. Installing this source marketplace does not establish directory approval.
 
 Velva's application source is not part of this distribution. The [MIT license](velva/LICENSE) applies to the plugin bundle; the hosted Velva service and its content remain subject to their own terms.
